@@ -25,3 +25,7 @@ npx tauri dev
 
 When typing first letter in the post, it will write double, duplicate character.
 
+## Additional info
+
+It happens in tauri but doesn't happen in wry
+Only in multiwebview (when adding as child) even when there's only single webview
