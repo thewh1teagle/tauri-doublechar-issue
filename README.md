@@ -4,6 +4,12 @@
 When using latest tauri with multiwebview (adding webviews as childs)
 And creating new post in twitter, the first letter which typed into the post creation input written twice, see video
 
+
+
+https://github.com/thewh1teagle/tauri-doublechar-issue/assets/61390950/1e809966-ac66-406f-9d42-452836d53d29
+
+
+
 ## Repro
 
 1. Clone and Run
