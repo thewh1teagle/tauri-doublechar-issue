@@ -27,5 +27,6 @@ When typing first letter in the post, it will write double, duplicate character.
 
 ## Additional info
 
-It happens in tauri but doesn't happen in wry
-Only in multiwebview (when adding as child) even when there's only single webview
+1. It happens in tauri but doesn't happen in wry
+2. Only in multiwebview (when adding as child) even when there's only single webview
+3. It happens in MacOS only
